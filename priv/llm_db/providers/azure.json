@@ -807,6 +807,7 @@
       },
       "deprecated": false,
       "extra": {
+        "api": "responses",
         "attachment": false,
         "open_weights": false,
         "temperature": false
@@ -1756,6 +1757,7 @@
       },
       "deprecated": false,
       "extra": {
+        "api": "responses",
         "attachment": false,
         "open_weights": false,
         "temperature": false
@@ -2958,6 +2960,7 @@
       },
       "deprecated": false,
       "extra": {
+        "api": "responses",
         "attachment": false,
         "open_weights": false,
         "temperature": false
@@ -3971,6 +3974,7 @@
       },
       "deprecated": false,
       "extra": {
+        "api": "responses",
         "attachment": true,
         "open_weights": false,
         "temperature": false
