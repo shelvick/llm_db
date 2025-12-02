@@ -383,10 +383,12 @@
           "enabled": false
         },
         "streaming": {
-          "tool_calls": true
+          "text": true,
+          "tool_calls": false
         },
         "tools": {
-          "enabled": true
+          "enabled": true,
+          "forced_choice": false
         }
       },
       "cost": {
@@ -1606,13 +1608,15 @@
           "strict": false
         },
         "reasoning": {
-          "enabled": true
+          "enabled": false
         },
         "streaming": {
-          "tool_calls": true
+          "text": true,
+          "tool_calls": false
         },
         "tools": {
-          "enabled": true
+          "enabled": true,
+          "forced_choice": false
         }
       },
       "cost": {

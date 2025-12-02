@@ -1,0 +1,4 @@
+id = "grok-3-mini"
+
+[capabilities.tools]
+forced_choice = false
